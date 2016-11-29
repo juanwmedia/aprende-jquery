@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Eventos</title>
+</head>
+<body>
+<a href="http://www.google.es">Esto es un enlace</a>
+<script>
+    /* Escuchar eventos del DOM (content loaded) */
+    document.addEventListener('DOMContentLoaded', function () {
+        console.log('DOM cargado');
+    });
+
+    /* Iniciar event listener sobre elemento HTML */
+    var enlace = document.querySelector('a');
+    enlace.addEventListener('click', function (event) {
+        event.preventDefault();
+        console.log('Click');
+    });
+</script>
+</body>
+</html>

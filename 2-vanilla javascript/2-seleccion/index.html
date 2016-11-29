@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Selección</title>
+</head>
+<body>
+<h1 id="principal">Heading 1</h1>
+<h2 class="heading">Heading 2</h2>
+<ul>
+    <li>Uno</li>
+    <li>Dos</li>
+    <li>Tres</li>
+    <li>Cuatro</li>
+    <li>Cinco</li>
+</ul>
+<script>
+    // Buscar elementos en base a un selector
+    var elementos = document.querySelectorAll('li');
+    //console.log(elementos);
+
+    elementos[0].addEventListener('click', function () {
+       console.log('Click');
+    });
+
+    // Buscar elementos con una clase específica
+    var heading = document.getElementsByClassName('heading');
+    //console.log(heading);
+
+    // Buscar elementos por nombre de tag
+    var ul = document.getElementsByTagName('ul');
+    //console.log(ul);
+
+    // Buscar elementos por ID
+    var principal = document.getElementById('principal');
+    console.log(principal);
+</script>
+</body>
+</html>
