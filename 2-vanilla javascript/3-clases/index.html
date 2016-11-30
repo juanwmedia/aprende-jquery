@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clases</title>
+    <style>
+        .rojo {
+            color: indianred;
+        }
+        .azul {
+            color: dodgerblue;
+        }
+    </style>
+</head>
+<body>
+<h1>Hola desde DO Podcast :)</h1>
+<button>Cambiar Clase</button>
+<script>
+    var h1 = document.querySelector('h1'),
+        boton = document.querySelector('button');
+
+    boton.addEventListener('click', function () {
+        if (!h1.classList.contains('rojo')) {
+            h1.classList.add('rojo');
+            h1.classList.remove('azul');
+        } else {
+            h1.classList.add('azul');
+            h1.classList.remove('rojo');
+        }
+    });
+
+    function toggleClass(elemento, clase) {
+        if (elemento.classList.contains(clase)) {
+            elemento.classList.remove(clase);
+        } else {
+            elemento.classList.add(clase);
+        }
+    }
+
+    h1.addEventListener('click', function(){
+       toggleClass(this, 'rojo');
+    });
+</script>
+</body>
+</html>
