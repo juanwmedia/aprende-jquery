@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Estilos</title>
+    <style>
+        .caja {
+            width: 300px;
+            height: 300px;
+            background-color: aqua;
+            margin: 0 auto;
+            border: 1px solid red;
+            box-shadow: 1px 1px 12px black;
+        }
+
+        .transicion {
+            transition: all 1s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+<div class="caja"></div>
+<script>
+    // Obtener los estilos de un elemento
+    var div = document.querySelector('div'),
+        estilos = getComputedStyle(div, null);
+
+    console.log(estilos['background-color']);
+
+    // Añadir una clase
+    div.classList.add('transicion');
+
+    // Modificar o añadir estilos
+    div.style.backgroundColor = 'goldenrod';
+    div.style['border-radius'] = '20px';
+
+    // Varios estilos a la vez
+    div.style.cssText += 'background-color: green; width: 400px; height: 200px;';
+</script>
+</body>
+</html>
