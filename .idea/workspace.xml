@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e161ccdb-5f4a-4eb3-afa3-acd4e49f5cd0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/black-cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/cat1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/cat2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/cat3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/fondo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/snapchat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/img/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-slidetoggle/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/black-cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/cat1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/cat2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/cat3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/fondo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/snapchat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/img/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16-mouse-events/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,21 +34,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15-slidetoggle/index.html">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16-mouse-events/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="243">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15-slidetoggle/js/main.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16-mouse-events/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="-216">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,6 +102,7 @@
         <option value="$PROJECT_DIR$/14-filtrado/index.html" />
         <option value="$PROJECT_DIR$/15-slidetoggle/index.html" />
         <option value="$PROJECT_DIR$/15-slidetoggle/js/main.js" />
+        <option value="$PROJECT_DIR$/16-mouse-events/js/main.js" />
       </list>
     </option>
   </component>
@@ -143,7 +144,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="15-slidetoggle" />
+              <option name="myItemId" value="16-mouse-events" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -157,7 +158,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="15-slidetoggle" />
+              <option name="myItemId" value="16-mouse-events" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -302,12 +303,13 @@
       <workItem from="1482409445839" duration="4000" />
       <workItem from="1482420105387" duration="1194000" />
       <workItem from="1482506688845" duration="2394000" />
-      <workItem from="1482864896919" duration="2397000" />
+      <workItem from="1482864896919" duration="2524000" />
+      <workItem from="1482958647021" duration="1502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24051000" />
+    <option name="totallyTimeSpent" value="25680000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,7 +330,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30988276" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3088803" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -369,20 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6-arriba-abajo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4-caminar/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5-encadenar/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -696,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,22 +691,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-slidetoggle/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15-slidetoggle/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="27">
+          <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15-slidetoggle/js/main.js">
+    <entry file="file://$PROJECT_DIR$/16-mouse-events/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="-216">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-mouse-events/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
