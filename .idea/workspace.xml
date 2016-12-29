@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e161ccdb-5f4a-4eb3-afa3-acd4e49f5cd0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/black-cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/cat1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/cat2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/cat3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/fondo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/snapchat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/img/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-keyboard-events/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/black-cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/cat1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/cat2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/cat3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/fondo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/snapchat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/img/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18-keyboard-events-keys/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,21 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17-keyboard-events/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="42" column="54" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/17-keyboard-events/js/main.js">
+        <entry file="file://$PROJECT_DIR$/18-keyboard-events-keys/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -106,6 +96,7 @@
         <option value="$PROJECT_DIR$/16-mouse-events/index.html" />
         <option value="$PROJECT_DIR$/17-keyboard-events/index.html" />
         <option value="$PROJECT_DIR$/17-keyboard-events/js/main.js" />
+        <option value="$PROJECT_DIR$/18-keyboard-events-keys/js/main.js" />
       </list>
     </option>
   </component>
@@ -148,7 +139,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="17-keyboard-events" />
+              <option name="myItemId" value="18-keyboard-events-keys" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,7 +153,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="17-keyboard-events" />
+              <option name="myItemId" value="18-keyboard-events-keys" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -308,12 +299,12 @@
       <workItem from="1482506688845" duration="2394000" />
       <workItem from="1482864896919" duration="2524000" />
       <workItem from="1482958647021" duration="1661000" />
-      <workItem from="1483026221556" duration="1877000" />
+      <workItem from="1483026221556" duration="2687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27716000" />
+    <option name="totallyTimeSpent" value="28526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,13 +366,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5-encadenar/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4-caminar/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -714,6 +698,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/17-keyboard-events/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/17-keyboard-events/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -722,10 +714,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17-keyboard-events/js/main.js">
+    <entry file="file://$PROJECT_DIR$/18-keyboard-events-keys/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding />
         </state>
       </provider>
