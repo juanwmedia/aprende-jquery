@@ -1,0 +1,42 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Bloque acordeón */
+.acordeon {
+    width: 800px;
+}
+
+.panel {
+    margin: 5px;
+}
+
+.panel__cabecera {
+    background-color: darkgray;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    cursor: pointer;
+}
+
+.panel__contenido {
+    background-color: lightgray;
+    padding: 10px;
+    display: none;
+}
