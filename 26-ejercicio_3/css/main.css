@@ -1,0 +1,49 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 800px;
+    padding: 40px;
+    background-color: lightblue;
+}
+
+p {
+    margin: 0;
+    color: dimgray;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    border: 2px solid gray;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    box-shadow: 1px 1px 2px gray;
+}
