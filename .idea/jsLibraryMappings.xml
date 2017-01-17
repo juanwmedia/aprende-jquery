@@ -2,5 +2,6 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="PROJECT" libraries="{jquery-3.1.0}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
   </component>
 </project>
