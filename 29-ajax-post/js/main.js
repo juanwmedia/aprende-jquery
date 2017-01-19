@@ -11,7 +11,7 @@ $(document).ready(function () {
         evt.preventDefault();
 
         // Realizamos la petición
-        $.ajax('TU_PROPIA_RUTA/ajax.php', {
+        $.ajax('http://dev.wmedia.es/do/jquery/ajax.php', {
             type: 'POST',
             dataType: 'json',
             data: {
