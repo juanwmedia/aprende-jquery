@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e161ccdb-5f4a-4eb3-afa3-acd4e49f5cd0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/black-cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/cat1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/cat2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/cat3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/fondo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/snapchat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/img/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/adopcion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/33-event-namespacing/social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/black-cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/cat1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/cat2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/cat3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/fondo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/snapchat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/img/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/adopcion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/34-eventos-personalizados/social.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -45,22 +46,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/33-event-namespacing/index.html">
+        <entry file="file://$PROJECT_DIR$/34-eventos-personalizados/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+            <state relative-caret-position="459">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/33-event-namespacing/js/main.js">
+        <entry file="file://$PROJECT_DIR$/34-eventos-personalizados/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="351">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
-                <marker date="1485293048000" expanded="true" signature="1038:1184" ph="..." />
+                <marker date="1485376875000" expanded="true" signature="930:1076" ph="..." />
               </folding>
             </state>
           </provider>
@@ -88,10 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12-variable-cache/index.html" />
-        <option value="$PROJECT_DIR$/13-event-delegation/js/main.js" />
-        <option value="$PROJECT_DIR$/14-filtrado/js/main.js" />
-        <option value="$PROJECT_DIR$/14-filtrado/index.html" />
         <option value="$PROJECT_DIR$/15-slidetoggle/index.html" />
         <option value="$PROJECT_DIR$/15-slidetoggle/js/main.js" />
         <option value="$PROJECT_DIR$/16-mouse-events/js/main.js" />
@@ -139,6 +136,10 @@
         <option value="$PROJECT_DIR$/32-event-off/js/main.js" />
         <option value="$PROJECT_DIR$/33-event-namespacing/index.html" />
         <option value="$PROJECT_DIR$/33-event-namespacing/js/main.js" />
+        <option value="$PROJECT_DIR$/34-eventos.personalizados/js/main.js" />
+        <option value="$PROJECT_DIR$/34-eventos.personalizados/index.html" />
+        <option value="$PROJECT_DIR$/34-eventos-personalizados/index.html" />
+        <option value="$PROJECT_DIR$/34-eventos-personalizados/js/main.js" />
       </list>
     </option>
   </component>
@@ -159,8 +160,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="896" />
+    <option name="width" value="1280" />
+    <option name="height" value="716" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -177,6 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,7 +192,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="33-event-namespacing" />
+              <option name="myItemId" value="34-eventos-personalizados" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -203,7 +206,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="33-event-namespacing" />
+              <option name="myItemId" value="34-eventos-personalizados" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -223,14 +226,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="/usr/local/lib/node_modules/eslint" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -252,6 +253,18 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -262,6 +275,12 @@
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -371,12 +390,13 @@
       <workItem from="1485185599520" duration="727000" />
       <workItem from="1485187158714" duration="7000" />
       <workItem from="1485203703332" duration="1507000" />
-      <workItem from="1485289948756" duration="1298000" />
+      <workItem from="1485289948756" duration="1420000" />
+      <workItem from="1485375747257" duration="1016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61426000" />
+    <option name="totallyTimeSpent" value="62564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,16 +408,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="896" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="716" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11488863" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114413075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -443,34 +463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20-CSS/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21-add-remove-toggleClass/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21-add-remove-toggleClass/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21-add-remove-toggleClass/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="138" column="16" lean-forward="false" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/22-animate/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -741,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding>
-            <marker date="1485206217000" expanded="true" signature="953:1099" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +747,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33-event-namespacing/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <marker date="1485293048000" expanded="true" signature="1038:1184" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -771,12 +768,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/33-event-namespacing/js/main.js">
+    <entry file="file://$PROJECT_DIR$/34-eventos.personalizados/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="460">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34-eventos.personalizados/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34-eventos-personalizados/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34-eventos-personalizados/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding>
-            <marker date="1485293048000" expanded="true" signature="1038:1184" ph="..." />
+            <marker date="1485376875000" expanded="true" signature="930:1076" ph="..." />
           </folding>
         </state>
       </provider>
