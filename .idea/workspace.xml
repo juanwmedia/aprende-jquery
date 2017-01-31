@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e161ccdb-5f4a-4eb3-afa3-acd4e49f5cd0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/black-cat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/cat1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/cat2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/cat3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/fondo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/snapchat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/img/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/36-objeto-deferred/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/black-cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/cat1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/cat2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/cat3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/fondo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/snapchat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/img/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/37-when-then/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,21 +42,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/36-objeto-deferred/index.html">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/37-when-then/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="353">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/36-objeto-deferred/js/main.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/37-when-then/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/16-mouse-events/index.html" />
         <option value="$PROJECT_DIR$/17-keyboard-events/index.html" />
         <option value="$PROJECT_DIR$/17-keyboard-events/js/main.js" />
         <option value="$PROJECT_DIR$/18-keyboard-events-keys/js/main.js" />
@@ -135,6 +134,7 @@
         <option value="$PROJECT_DIR$/35-creacion-plugin/index.html" />
         <option value="$PROJECT_DIR$/35-creacion-plugin/js/main.js" />
         <option value="$PROJECT_DIR$/36-objeto-deferred/js/main.js" />
+        <option value="$PROJECT_DIR$/37-when-then/js/main.js" />
       </list>
     </option>
   </component>
@@ -155,8 +155,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
-    <option name="height" value="716" />
+    <option name="width" value="1440" />
+    <option name="height" value="896" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -173,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -186,7 +187,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="36-objeto-deferred" />
+              <option name="myItemId" value="37-when-then" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,7 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="36-objeto-deferred" />
+              <option name="myItemId" value="37-when-then" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -220,7 +221,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,12 +390,14 @@
       <workItem from="1485450435077" duration="199000" />
       <workItem from="1485465210055" duration="2562000" />
       <workItem from="1485539555313" duration="7000" />
-      <workItem from="1485813039707" duration="1557000" />
+      <workItem from="1485813039707" duration="1678000" />
+      <workItem from="1485847277922" duration="7000" />
+      <workItem from="1485873485785" duration="1689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67032000" />
+    <option name="totallyTimeSpent" value="68849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,16 +409,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="716" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="896" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20078126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20069444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24517088" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17584994" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -462,16 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/24-ejercicio_1/img/cat1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24-ejercicio_1/img/flecha.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/24-ejercicio_1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -743,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,22 +742,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="38" column="33" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/36-objeto-deferred/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/36-objeto-deferred/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/36-objeto-deferred/js/main.js">
+    <entry file="file://$PROJECT_DIR$/37-when-then/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/37-when-then/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding />
         </state>
       </provider>
